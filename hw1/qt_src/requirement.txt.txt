@@ -1,0 +1,10 @@
+conda create -n pygui python=3.6
+
+pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python==4.3.0.38
+pip install opencv-contrib-python==4.5.1.48  (oil-painting)
+pip install pandas
+
+pip install PyQt5 -i https://pypi.douban.com/simple
+pip install PyQt5-tools -i https://pypi.douban.com/simple
+
+
